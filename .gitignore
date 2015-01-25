@@ -17,3 +17,9 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# for emacs temp files
+*~
+
+# text testing pages
+*.txt
