@@ -1,6 +1,6 @@
 Revisor is a simple web application for editing the text files behind websites created by applications like Luminos.
 
-The project is based this tutorial:
+The project is based on this tutorial:
 https://golang.org/doc/articles/wiki/
 
 At the moment this just runs locally. Here's how to try it:
